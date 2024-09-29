@@ -10,6 +10,7 @@ hmm... Contrary to what my colleagues might say to you, I am handy to reach. You
 
 ### ⚡ Fun fact:
   >_The blue Mountain in Australia isn't exactly blue. It was named blue because people of that region frequently uses slander._
+
   >_The train service from Moscow to Vladivostok is the longest train service in the world (distance-wise)_
 
 <!---
