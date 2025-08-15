@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Seyam Rahman. You can also call me 'Alpha'
   
 - 👀 I like Data analysis, Formula 1, World Endurance Championship, Chocolate (No no, not the chocolatey :) ).
-- 🌱 I’m currently learning __C++__, __Python__, __MySQL__ and many other things.
+- 🌱 I’m currently learning __C++__, __Python__, __MySQL__, __web development frameworks__ and many other things.
 - 💞️ I’m looking to collaborate on web projects, basically anything where I can learn things.
 - I enjoy participating in Hackathon and business events, and acing it.
   
